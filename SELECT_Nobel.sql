@@ -73,7 +73,7 @@ SELECT yr, subject, winner
 FROM nobel
 WHERE winner = 'EUGENE O\'
 NEILL';
---#13 List the winners, year and subject where the winner starts with Sir. Show the the most recent first, then by name order.
+-- #13 List the winners, year and subject where the winner starts with Sir. Show the the most recent first, then by name order.
 SELECT winner, yr, subject
 FROM nobel
 WHERE winner LIKE 'Sir%'
@@ -84,7 +84,7 @@ SELECT winner, subject
   FROM nobel
 WHERE yr=1984
 ORDER BY subject IN ('Chemistry','Physics'), subject, winner;
---#15 The above can also be expressed thus:
+--15 The above can also be expressed thus:
 SELECT winner, subject
   FROM nobel
 WHERE yr=1984
