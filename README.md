@@ -19,9 +19,9 @@ for future reference. The queries are save on a file name that correspond the ch
 
 👤 **Samuel Kiroko N**
 
-    * Twitter: [@kirokonjenga](https://twitter.com/kirokonjenga)
-    * LinkedIn: [@samuel-kiroko](https://www.linkedin.com/in/samuel-kiroko/)
-    * Personal Website: [kiroko.tech](https://www.kiroko.tech/)
+- Twitter: [@kirokonjenga](https://twitter.com/kirokonjenga)
+- LinkedIn: [@samuel-kiroko](https://www.linkedin.com/in/samuel-kiroko/)
+- Personal Website: [kiroko.tech](https://www.kiroko.tech/)
 
 ## 🤝 Contributing
 
